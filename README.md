@@ -1,6 +1,6 @@
-# KUSITMS25_CorporateProject
+# 위로톡 
 
-<img src="https://github.com/user-attachments/assets/4ca9d17d-e514-49b3-a6e2-be651e256a93" width="700" height="370">
+<img src="https://github.com/user-attachments/assets/59573706-bfa5-4c62-9e97-fd6a3acfde2b">
 
 ---
 
