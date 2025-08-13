@@ -1,6 +1,6 @@
 # KUSITMS25_CorporateProject
 
-![Project Image](img)
+![Image](https://github.com/user-attachments/assets/4ca9d17d-e514-49b3-a6e2-be651e256a93)
 
 ---
 
