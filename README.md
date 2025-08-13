@@ -1,9 +1,6 @@
 # 위로톡 
 
-<img src="https://github.com/user-attachments/assets/59573706-bfa5-4c62-9e97-fd6a3acfde2b">
-<img src="https://github.com/user-attachments/assets/666c2b0c-3bb0-44c2-a3ac-5a1b36a8792c">
-<img src="https://github.com/user-attachments/assets/05f15227-394b-414b-aab2-ce8bd4376eab">
-<img src="https://github.com/user-attachments/assets/6ce271cf-ac08-424a-abba-934087501807">
+<img src="https://github.com/user-attachments/assets/caee16dc-5aa7-4acd-bb56-4515016fff8e">
 
 ---
 
